@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Path Less Traveled Blog",
+    "techstack": "CSS, EJS, Express, MongoDB",
+    "description": "A blog created through Express and MongoDB (including Mongoose) in order to save the blog posts to a database. Additionally, the library EJS was used along with other dependencies like basic middleware. <br><br> Currently working on a re-design."
+  },
+  {
+    "id": "2",
+    "title": "Number Converter",
+    "techstack": "HTML, CSS, JavaScript",
+    "description": "A basic number converter displaying conversions for length and for weight."
+  },
+  {
+    "id": "3",
+    "title": "Calculator",
+    "techstack": "HTML, CSS, JavaScript",
+    "description": "This is a description of project 3. It can be as long as you want it to be. The text can be formatted and include images, links, etc"
+  }
+]
