@@ -16,5 +16,11 @@
     "title": "Calculator",
     "techstack": "HTML, CSS, JavaScript",
     "description": "A basic calculator as my first ever project in JavaScript."
+  },
+  {
+    "id": "4",
+    "title": "Project Manager",
+    "techstack": "HTML, CSS, JavaScript, EJS, Node, Express",
+    "description": "A project and employer manager which allows managers to overlook all employers and add projects/employers Additionally I added a component where they can view the productivity of each project using Chart.js. \n\n Employers can add projects, look at current employees, and so much more functionality. Currently working on it."
   }
 ]
